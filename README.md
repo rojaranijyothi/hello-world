@@ -1,2 +1,2 @@
 # hello-world
-This is fro Springboard projects
+This is for Springboard projects
